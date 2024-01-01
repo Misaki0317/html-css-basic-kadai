@@ -1,0 +1,27 @@
+body{
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#first-heading{
+  /* ここにGoogle Fontsを指定します */
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans Osmanya', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+#basic p{
+  font-weight: bold;
+}
+.text-skyblue, .second-heading2{
+  color: skyblue;
+}
+.text-pink, .second-heading1{
+  color: rgb(255, 192, 203);
+}
+
+
+
